@@ -1,0 +1,7 @@
+CRITICAL:root:Host www.python.org unknown
+ERROR:root:Couldn't find 'spam'
+CRITICAL:__main__:A Critical Error!
+CRITICAL:2020-07-24 16:47:42,668:Host www.python.org unknown
+ERROR:2020-07-24 16:47:42,671:Couldn't find 'spam'
+CRITICAL:2020-07-24 16:51:45,559:Host www.python.org unknown
+ERROR:2020-07-24 16:51:45,560:Couldn't find 'spam'
